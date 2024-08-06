@@ -1,0 +1,19 @@
+.about-page{
+    background-color: #1ABC9C;
+}
+
+.line{
+    width: 6.25rem;
+    height: .25rem;
+}
+
+
+.about-content{
+    margin-left: 48px;
+    margin-right: 48px;
+}
+
+.content {
+    padding-left: 32px;
+    padding-right: 32px;
+}
